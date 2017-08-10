@@ -25,14 +25,14 @@ Anyone interested
 - [ ] online OCR processor
 - [ ] Mobile app sending photos (images) for processing
 
-## Technologies: 
+## Technologies
 
-## Frontend - mobile app
+### Frontend - mobile app for iOS or Android
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [ES6](https://babeljs.io/learn-es2015/)
-* [React Native]
+* [React Native](http://www.reactnative.com/)
 
-## Backend:
+### Backend:
 node.js
 
 ## Difficulty: 
