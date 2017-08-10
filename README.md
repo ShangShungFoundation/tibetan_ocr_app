@@ -9,7 +9,7 @@
 ## Project Coordinator: 
 
 ## Description
-Mobile app to processing OCR tibetan text (on the server side)
+Mobile app to processing OCR tibetan text (on the server side service)
 
 ## Purpose
 * Provides a tool for convinient tibetan text recogintion
@@ -42,6 +42,10 @@ Medium
    - Git client: Shell, [Git Desktop](https://desktop.github.com/)
 
 ## Resources:
+* http://digitaltibetan.org/index.php/Tibetan_OCR
+* http://www.namsel.com/ https://github.com/zmr/namsel study: http://www.academia.edu/27708311/Namsel_An_optical_character_recognition_system_for_Tibetan_text
+* https://github.com/writepython/tibetan-ocr
+* http://www.panl10n.net/english/Outputs%20Phase%202/CCs/China/Papers/TU/TibetanOCR.pdf
 
 ## Acknowledgements
 We are grateful to following persons for their ideas and collaboration:
