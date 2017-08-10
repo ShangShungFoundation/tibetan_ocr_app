@@ -32,7 +32,7 @@ Anyone interested
 * [ES6](https://babeljs.io/learn-es2015/), [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ### Backend:
-node.js
+* tesseract-ocr
 
 ## Difficulty: 
 Medium
